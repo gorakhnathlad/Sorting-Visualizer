@@ -1,7 +1,5 @@
 
-
 $(document).ready(function(){        
-
   $("p").click(function(event) {              
         let id=event.target.id;
 
